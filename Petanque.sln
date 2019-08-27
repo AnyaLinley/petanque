@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petanque", "Petanque\Petanque.csproj", "{75578F35-B226-49A7-9DD4-D71F005ED3D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75578F35-B226-49A7-9DD4-D71F005ED3D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75578F35-B226-49A7-9DD4-D71F005ED3D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75578F35-B226-49A7-9DD4-D71F005ED3D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75578F35-B226-49A7-9DD4-D71F005ED3D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5440765D-6C00-44C2-9DCA-07B0A1DE171D}
+	EndGlobalSection
+EndGlobal
